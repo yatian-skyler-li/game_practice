@@ -1,4 +1,4 @@
-from a3_support import *
+from hacker_game_support import *
 import tkinter as tk
 import random
 from PIL import Image, ImageTk
