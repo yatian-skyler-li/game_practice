@@ -8,7 +8,7 @@ CSSE1001/CSSE7030
 
 from typing import Optional, Tuple
 
-from a1_support import *
+from chess_support import *
 
 __author__ = "Yatian Li, 46059145"
 __email__ = "yatian.li@uqconnect.edu.au"
